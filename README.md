@@ -11,4 +11,8 @@
 - テストを受けた人の名前は編集できます
 - 「リセット」ボタンを押すと最初の入力状態に戻ります
 
+### Inquiries
 For inquiries, sasakikotaro5(atmark)gmail.com
+
+### Privacy Policy
+We do not collect personal data of users through this app.
